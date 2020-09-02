@@ -1,11 +1,11 @@
 {
-    "content_dir":"/home/jason/code/podcast_generator/content/blog.jasonrigden.com",
-    "footer_file": "/home/jason/code/podcast_generator/links.json",
+    "content_dir":"/home/jason/content/blog.jasonrigden.com/content",
+    "footer_file": "/home/jason/content/blog.jasonrigden.com/links.json",
     "title": "Jason Rigden",
     "description": "I make podcasts and stuff.",
-    "cover_art": "http://test.ipsut.net/share/img/jason_rigden_small.jpg",
-    "base_url": "http://127.0.0.1:35729",
-    "output_dir":"/home/jason/code/podcast_generator/output/blog.jasonrigden.com",
+    "cover_art": "https://blog.jasonrigden.com/share/img/jason_rigden_small.jpg",
+    "base_url": "https://blog.jasonrigden.com",
+    "output_dir":"/home/jason/www/blog.jasonrigden.com",
     "page_type": "Posts",
     "menu": [
         {
