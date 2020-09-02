@@ -1,0 +1,36 @@
+{
+    "content_dir":"",
+    "footer_file": "/home/jason/content/blog.jasonrigden.com/links.json",
+    "copyright": "<h4>&#169; 2020 Jason Rigden</h4>This work is licensed under a <a href=\"https://creativecommons.o/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0 International License.</a>",
+    "title": "",
+    "description": "",
+    "cover_art": "",
+    "base_url": "https://talktoseattle.com/",
+    "output_dir":"/home/jason/www/talktoseattle.com",
+    "page_type": "Episodes",
+    "rss_url": "https://talktotheleft.libsyn.com/rss",
+    "menu": [
+        {
+            "name": "Soon...",
+            "url": ""
+        }
+    ],
+    "primary": {
+        "title": "Subscribe", 
+        "links": [
+            {
+                "name": "Apple",
+                "url": "https://podcasts.apple.com/us/podcast/talk-to-seattle/id1438908915"
+            }
+        ]
+    },
+    "secondary": {
+        "title": "Social", 
+        "links": [
+            {
+                "name": "Twitter",
+                "url": "https://twitter.com/talktoseattle"
+            }
+        ]
+    }       
+}
