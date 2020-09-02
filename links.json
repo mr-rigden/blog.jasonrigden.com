@@ -45,17 +45,29 @@
                 "name": "The David Feldman Show",
                 "url": "https://davidfeldmanshow.com/"
             },
-            {
+            {   
                 "name": "Give Them An Argument",
                 "url": "https://feeds.buzzsprout.com/1272872.rss"
             },
-            {
+            {   
+                "name": "Dead Pundits Society",
+                "url": "https://soundcloud.com/deadpundits"
+            },
+            {   
                 "name": "Behind the Bastards",
                 "url": "https://www.iheart.com/podcast/105-behind-the-bastards-29236323/"
             },
-            {
+            {   
                 "name": "Dented Dimension",
                 "url": "http://denteddimension.com/"
+            },
+            {
+                "name": "QAnon Anonymous",
+                "url": "https://www.qanonanonymous.com/"
+            },
+            {
+                "name": "Seattle Sucks",
+                "url": "https://www.seattle.sucks/"
             }
         ]
     },
