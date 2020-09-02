@@ -11,8 +11,8 @@
     "rss_url": "https://talktotheleft.libsyn.com/rss",
     "menu": [
         {
-            "name": "Soon...",
-            "url": ""
+            "name": "Be a Guest!",
+            "url": "mailto:jasonrigden@gmail.com"
         }
     ],
     "primary": {
@@ -21,6 +21,18 @@
             {
                 "name": "Apple",
                 "url": "https://podcasts.apple.com/us/podcast/talk-to-seattle/id1438908915"
+            },
+            {
+                "name": "Google",
+                "url": "https://podcasts.google.com/feed/aHR0cHM6Ly90YWxrdG90aGVsZWZ0LmxpYnN5bi5jb20vcnNz"
+            },
+            {
+                "name": "Spotify",
+                "url": "https://open.spotify.com/show/1E2X7V425guEEMCfLIIcTn"
+            },
+            {
+                "name": "RSS",
+                "url": "https://seattlepodcasterspodcast.libsyn.com/rss"
             }
         ]
     },
@@ -30,6 +42,14 @@
             {
                 "name": "Twitter",
                 "url": "https://twitter.com/talktoseattle"
+            },
+             {
+                "name": "Facebook",
+                "url": "https://twitter.com/talktoseattle"
+            },
+            {
+                "name": "Email",
+                "url": "mailto:jasonrigden@gmail.com"
             }
         ]
     }       
