@@ -1,0 +1,79 @@
+
+[
+    {
+        "title": "Jason Rigden",
+        "links": [
+            {
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com/in/jasonrigden/"
+            },
+             {
+                "name": "Twitter",
+                "url": "https://twitter.com/mr_rigden"
+            },
+            {
+                "name": "GitHub",
+                "url": "https://github.com/mr-rigden"
+            },
+                        {
+                "name": "Email",
+                "url": "mailto:jasonrigden@gmail.com"
+            },
+            {
+                "name": "Blog",
+                "url": "http://blog.jasonrigden.com"
+            }            
+        ]
+    },
+    {
+        "title": "Jason Rigden's Podcasts",
+        "links": [
+             {
+                "name": "Talking Cryptocurrency",
+                "url": "https://talkingcryptocurrency.net/"
+            },
+            {
+                "name": "Talk To Seattle",
+                "url": "https://talktoseattle.com/"
+            }
+        ]
+    },
+        {
+        "title": "Jason's Favorite Podcasts",
+        "links": [
+            {
+                "name": "The David Feldman Show",
+                "url": "https://davidfeldmanshow.com/"
+            },
+            {
+                "name": "Give Them An Argument",
+                "url": "https://feeds.buzzsprout.com/1272872.rss"
+            },
+            {
+                "name": "Behind the Bastards",
+                "url": "https://www.iheart.com/podcast/105-behind-the-bastards-29236323/"
+            },
+            {
+                "name": "Dented Dimension",
+                "url": "http://denteddimension.com/"
+            }
+        ]
+    },
+    {
+        "title": "Made With",
+        "links": [
+            {
+                "name": "PodcastToDict",
+                "url": "https://github.com/mr-rigden/zzetta/blob/master/podcast_to_dict.py"
+            },
+            {
+                "name": "Python",
+                "url": "https://www.python.org/"
+            },
+            {
+                "name": "zzetta",
+                "url": "https://github.com/mr-rigden/zzetta"
+            }
+        ]
+    }
+]

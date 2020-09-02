@@ -1,0 +1,59 @@
+{
+    "content_dir":"/home/jason/code/podcast_generator/content/blog.jasonrigden.com",
+    "footer_file": "/home/jason/code/podcast_generator/links.json",
+    "title": "Jason Rigden",
+    "description": "I make podcasts and stuff.",
+    "cover_art": "http://test.ipsut.net/share/img/jason_rigden_small.jpg",
+    "base_url": "http://127.0.0.1:35729",
+    "output_dir":"/home/jason/code/podcast_generator/output/blog.jasonrigden.com",
+    "page_type": "Posts",
+    "menu": [
+        {
+            "name": "Don't Click Me",
+            "url": "http://ipeedalittle.com/click/"
+        }
+    ],
+    "primary": {
+        "title": "Social", 
+        "links": [
+            {
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com/in/jasonrigden/"
+            },
+             {
+                "name": "Twitter",
+                "url": "https://twitter.com/mr_rigden"
+            },
+            {
+                "name": "GitHub",
+                "url": "https://github.com/mr-rigden"
+            },
+                        {
+                "name": "Email",
+                "url": "mailto:jasonrigden@gmail.com"
+            },
+            {
+                "name": "Blog",
+                "url": "http://blog.jasonrigden.com"
+            }            
+        ]
+    },
+    "secondary": {
+        "title": "Podcasts", 
+        "links": [
+            {
+                "name": "Conspiracy Theories Debunked",
+                "url": ""
+            },
+            {
+                "name": "The Jason Rigden Show",
+                "url": ""
+            },
+            {
+                "name": "Talk to Seattle",
+                "url": ""
+            }
+
+        ]
+    }       
+}
